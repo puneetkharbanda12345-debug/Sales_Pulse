@@ -56,4 +56,6 @@ The primary goal of this project was to build a scalable and interactive Busines
 
 
 ### Screenshots / Demos
-Example: ![Dasboard Preview](
+Example: ![Dashboard Preview](https://github.com/puneetkharbanda12345-debug/Sales_Pulse/blob/main/Summary_Report.png)
+Example: ![Dashboard Preview](https://github.com/puneetkharbanda12345-debug/Sales_Pulse/blob/main/Product_Report.png)
+Example: ![Dashboard Preview](https://github.com/puneetkharbanda12345-debug/Sales_Pulse/blob/main/Customer_Report.png)
